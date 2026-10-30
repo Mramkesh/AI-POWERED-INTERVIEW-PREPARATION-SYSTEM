@@ -1,6 +1,6 @@
 # AI-POWERED-INTERVIEW-PREPARATION-SYSTEM
 
 
-# this is new changr
+# this is new change
 
 this a onather new change 
